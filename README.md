@@ -1,99 +1,70 @@
-**Name: JHALAK MEHULA DEDHIA**
+# Getting Started with Create React App
 
-**Company: CODTECH IT SOLUTIONS PVT.LTD**
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-**Intern ID: CT08EMZ**
+## Available Scripts
 
-**Domain: React.js Web Development.**
+In the project directory, you can run:
 
-**Duration: December 17th, 2024 to January 17th, 2025.**
+### `npm start`
 
-**Mentor: SARVANI GOUNI**
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-**Movie House - Movie Discovery and Browsing App**
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
+### `npm test`
 
-![a2q](https://github.com/user-attachments/assets/600d8b2c-e499-4b9d-8c49-524cacd9e521)
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
+### `npm run build`
 
-![a3q](https://github.com/user-attachments/assets/d2567663-965a-40bd-9834-34bc39714ad5)
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-![Screenshot (16)](https://github.com/user-attachments/assets/a7708d79-eb69-41d4-8c06-473beee3c13d)
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
+### `npm run eject`
 
-![Screenshot (15)](https://github.com/user-attachments/assets/585692f2-34df-41f4-adaa-5801338be008)
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-Movie House is a cutting-edge web application built to enhance the experience of discovering and exploring movies. With its sleek design and powerful filtering options, users can seamlessly browse a vast collection of movies. Leveraging React and Vite, Movie House ensures high performance and responsiveness across devices, delivering a modern movie-browsing experience.
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-**Features**
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-**1. Search and Discover Movies**
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-•	Search Bar: Instantly locate movies by title through a user-friendly search box.
+## Learn More
 
-•	Genre Filter: Refine searches using an extensive list of genres, including:
-   o	Action
-   o	Adventure
-   o	Comedy
-   o	Drama
-   o	Horror
-   o	Sci-Fi, and many more.
-   
-•	Sorting Options: Sort movie listings based on:
-   o	Popularity: Ascending and Descending.
-   o	Ratings: Ascending and Descending.
-   o	Release Date: Ascending and Descending.
-   
-**2. Dynamic Movie Listings**
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-• Visual Display: Movies are showcased with visually appealing posters, titles, and ratings.
+To learn React, check out the [React documentation](https://reactjs.org/).
 
-• Card Layout: Organized in a card grid format for improved readability and user engagement.
+### Code Splitting
 
-• Interactive Elements: Hover effects and click interactions enhance the browsing experience.
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-**3. Advanced Filtering and Sorting**
+### Analyzing the Bundle Size
 
-• Genre Dropdown: Allows users to focus on specific categories of movies.
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-• Multi-level Sorting: Offers multiple criteria for arranging movie lists, aiding in more effective discovery.
+### Making a Progressive Web App
 
-• Real-time Updates: Data fetches dynamically without page reloads, ensuring a smooth user experience.
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-**4. Responsive Design**
+### Advanced Configuration
 
-• Adaptive Layouts: Optimized for desktops, tablets, and mobile devices.
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-• Scalable Components: Maintains visual consistency across different screen sizes.
+### Deployment
 
-**5. API Integration**
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-• Dynamic Data Fetching: Retrieves real-time data from external APIs.
+### `npm run build` fails to minify
 
-• Error Handling: Displays fallback content in case of API failures.
-
-• Pagination Support: Loads data in batches to enhance performance.
-
-**Tech Stack**
-
-•Frontend Framework: React (optimized with Vite for fast builds and HMR).
-
-• UI Styling: CSS Modules and Flexbox for scalable design and responsiveness.
-
-• State Management: React Hooks for handling application states dynamically.
-
-• API Integration: The Movie Database (TMDB) API for fetching movie data.
-
-• Routing: React Router for navigation within the app.
-
-**Ideal Use Cases**
-
-• Movie Buffs: Discover new and trending movies effortlessly.
-
-• Critics and Reviewers: Sort by ratings and release dates to find top-rated films.
-
-• Casual Users: Quickly search and filter movies based on personal preferences.
-
-• Content Explorers: Browse diverse genres to discover hidden gems.
-
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
